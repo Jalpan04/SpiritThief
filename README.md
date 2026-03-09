@@ -1,1 +1,1 @@
-Readme file for SpiritThief
+The Readme file for SpiritThief
