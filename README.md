@@ -1,6 +1,6 @@
 # SpiritThief
 
-![GitHub top language](https://img.shields.io/github/languages/top/Jalpan04/SpiritThief) ![GitHub repo size](https://img.shields.io/github/repo-size/Jalpan04/SpiritThief) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org) [![Pygame](https://img.shields.io/badge/Pygame-F37626?style=flat&logo=python&logoColor=white)](https://www.pygame.org) ![GitHub repo size](https://img.shields.io/github/repo-size/Jalpan04/SpiritThief) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 
 SpiritThief is a top-down dungeon crawler built with Pygame where you play as a ghost that possesses enemies and uses their abilities against them.
 
